@@ -39,5 +39,4 @@ sites/simpletest
 # simpletest
 
 default/files/css/
-../vendor/behat/mink
-../vendor/drupal/coder
+../vendor/*
