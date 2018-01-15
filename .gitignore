@@ -40,3 +40,5 @@ sites/simpletest
 
 default/files/css/
 ../vendor/*
+.metadata/
+RemoteSystemsTempFiles/
