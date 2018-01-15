@@ -38,6 +38,8 @@ sites/simpletest
 # Ignore SimpleTest multi-site environment.
 # simpletest
 
+# Ignore local configurations
 default/files/css/
-../vendor/behat/mink
-../vendor/drupal/coder
+../vendor/*
+.metadata/
+RemoteSystemsTempFiles/
