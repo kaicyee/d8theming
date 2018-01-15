@@ -38,5 +38,8 @@ sites/simpletest
 # Ignore SimpleTest multi-site environment.
 # simpletest
 
+# Ignore local configurations
 default/files/css/
 ../vendor/*
+.metadata/
+RemoteSystemsTempFiles/
