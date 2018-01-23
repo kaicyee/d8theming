@@ -43,3 +43,4 @@ default/files/css/
 ../vendor/*
 .metadata/
 RemoteSystemsTempFiles/
+!vendor/*
