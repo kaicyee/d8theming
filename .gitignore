@@ -44,5 +44,4 @@ default/files/css/
 .metadata/
 RemoteSystemsTempFiles/
 !vendor/*
-sites/default/settings.php
 sites/d8theming.dd
